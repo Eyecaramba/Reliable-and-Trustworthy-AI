@@ -1,0 +1,1 @@
+ python gen_diff.py light 1.0 1.0 0.02 100 20 0.52
